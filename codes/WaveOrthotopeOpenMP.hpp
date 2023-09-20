@@ -7,6 +7,9 @@
 // Class representing a rectangular plane with Dirichlet boundary conditions over which waves propagate
 // Called "orthotope" rather than "rectangle" since extra credit is given for generalizing to arbitrary dimension
 class WaveOrthotopeOpenMP : public WaveOrthotope { 
+    
+    using WaveOrthotope;
+    
     // Types
     using size_type = size_t;
     using value_type = double;
