@@ -8,7 +8,7 @@
 // Called "orthotope" rather than "rectangle" since extra credit is given for generalizing to arbitrary dimension
 class WaveOrthotopeOpenMP : public WaveOrthotope { 
     
-    using WaveOrthotopeOpenMP.hpp : WaveOrthotope;
+    using WaveOrthotope;
     
     // Types
     using size_type = size_t;
