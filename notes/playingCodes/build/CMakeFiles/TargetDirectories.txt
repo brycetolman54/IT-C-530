@@ -1,1 +1,0 @@
-/home/bat54/IT-C-530/notes/playingCodes/build/CMakeFiles/hi.dir

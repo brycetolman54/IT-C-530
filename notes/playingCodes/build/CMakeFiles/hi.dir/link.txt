@@ -1,1 +1,0 @@
-/apps/gcc/13.2.0/bin/g++   -Os   CMakeFiles/hi.dir/hello.cpp.o  -o hi -rdynamic 
